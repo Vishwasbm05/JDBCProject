@@ -15,7 +15,7 @@ public class Student {
 		System.out.println(s.name);
 		System.out.println(s.age);
 		System.out.println(s.gender);
-		
+		System.out.println("HI");
 		s.sleep();// method calling
 		
 	}
